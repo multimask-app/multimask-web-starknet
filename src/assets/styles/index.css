@@ -1,0 +1,19 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #F9F9F9;
+}
+
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.ant-menu-horizontal {
+    border: 0 !important;
+}
+
+.ant-menu-root > .ant-menu-item,
+.ant-menu-root > .ant-menu-submenu {
+    padding: 6px 20px !important;
+}
